@@ -8,9 +8,6 @@ import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.foundation.layout.padding
 import androidx.compose.material3.Scaffold
 import androidx.compose.ui.Modifier
-import androidx.compose.ui.tooling.preview.Preview
-import com.example.praktikum4.ActivitasPertama
-import com.example.praktikum4.R
 import com.example.praktikum4.ui.theme.Praktikum4Theme
 
 class MainActivity : ComponentActivity() {
